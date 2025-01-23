@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haohan Yuan"
-description              : "PhD Student, University of Hawaii at Manoa"
+description              : "PhD Student \n University of Hawaii at Manoa"
 repository               : "haohan/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -44,7 +44,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "www.linkedin.com/in/haohan-yuan-20735b2aa"# e.g., "linkedin username"
+  LinkedIn         : "Haohan Yuan"# e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
