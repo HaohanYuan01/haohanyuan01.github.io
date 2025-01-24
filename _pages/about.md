@@ -19,7 +19,7 @@ redirect_from:
 # About Me
 I am a Ph.D. student in the Information and Computer Sciences (ICS) Department at the University of Hawaii at Manoa, advised by [Prof. Haopeng Zhang](https://scholar.google.fr/citations?user=DT_HlbYAAAAJ). I received my M.Eng from the College of Computing and Data Science (CCDS) at Nanyang Technological University (NTU), where I was advised by [Prof. Hui Siu Cheung](https://scholar.google.com/citations?user=d4ZYx6gAAAAJ). Before that, I received my B.S. from the School of Mathematics at Hefei University of Technology.
 
-My research interests mainly focus on large language models (LLMs). I am currently working on topics related to LLMs, such as text summarization and information extraction. 
+My research primarily focuses on large language models (LLMs) and their applications to tasks such as text summarization and information extraction.
 
 # 📝 Selected Publications
 - DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization
