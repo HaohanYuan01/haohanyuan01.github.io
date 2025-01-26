@@ -25,9 +25,14 @@ My research primarily focuses on large language models (LLMs) and their applicat
 - DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization
   - <u>Haohan Yuan</u>, Haopeng Zhang
   - NAACL'25 Findings \[[Paper](https://arxiv.org/abs/2410.15687)\|[Code](https://github.com/hpzhang94/DomainSum)\]
+ 
+- A Structure-aware Generative Model for Biomedical Event Extraction
+  - <u>Haohan Yuan</u>, Siu Cheung Hui, Haopeng Zhang
+  - DASFAA'25 \[[Paper](https://arxiv.org/abs/2408.06583)\]
 
 
 # 🔥 Recent News
+- [*2025.01*] 🎉 One research paper is accepted to DASFAA 2025.
 - [*2025.01*] 🎉 One research paper is accepted to findings of NAACL 2025.
 - [*2024.09*] Excited to start my Ph.D. journey at the University of Hawaii at Manoa.
 - [*2024.07*] 🎉 One research paper is accepted to BMC Bioinformatics.
