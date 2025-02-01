@@ -37,8 +37,4 @@ My research primarily focuses on large language models (LLMs) and their applicat
 - [*2024.09*] Excited to start my Ph.D. journey at the University of Hawaii at Manoa.
 - [*2024.07*] 🎉 One research paper is accepted to BMC Bioinformatics.
 
----
-# Professional Experience
-- *2022.09 -- 2023.06*, Part-time Software Engineer Intern at Spirit Lab, Nanyang Technological University.
----
 
