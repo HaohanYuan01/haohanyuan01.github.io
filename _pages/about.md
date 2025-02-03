@@ -21,6 +21,9 @@ I am a Ph.D. student in the Information and Computer Sciences (ICS) Department a
 
 My research primarily focuses on large language models (LLMs) and their applications to tasks such as text summarization and information extraction.
 
+[My CV](./assets/CV25.pdf)
+
+
 # 📝 Selected Publications
 - DomainSum: A Hierarchical Benchmark for Fine-Grained Domain Shift in Abstractive Text Summarization
   - <u>Haohan Yuan</u>, Haopeng Zhang
