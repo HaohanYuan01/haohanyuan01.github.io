@@ -21,7 +21,7 @@ I am a Ph.D. student in the Information and Computer Sciences (ICS) Department a
 
 My research primarily focuses on large language models (LLMs) and their applications to tasks such as text summarization and information extraction.
 
-[My CV](./assets/CV25.pdf)
+[My CV](../assets/CV25.pdf)
 
 
 # 📝 Selected Publications
