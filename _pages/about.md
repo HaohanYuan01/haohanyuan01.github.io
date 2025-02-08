@@ -35,6 +35,7 @@ My research primarily focuses on large language models (LLMs) and their applicat
 
 
 # 🔥 Recent News
+- [*2025.02*] 🎉 Two first-author papers featured in *University of Hawaii News » Research*! The article, titled [*"AI breakthroughs aim to transform healthcare, education, more"*](https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/), highlights our work. 
 - [*2025.01*] 🎉 One research paper is accepted to DASFAA 2025.
 - [*2025.01*] 🎉 One research paper is accepted to findings of NAACL 2025.
 - [*2024.09*] Excited to start my Ph.D. journey at the University of Hawaii at Manoa.
