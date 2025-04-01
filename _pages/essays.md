@@ -2,7 +2,9 @@
 layout: page
 title: "Essays"
 permalink: /essays/
+author_profile: false
 ---
+
 
 <style>
 .essay-grid {
