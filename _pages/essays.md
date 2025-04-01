@@ -63,25 +63,14 @@ permalink: /essays/
 </style>
 
 <div class="essay-grid">
-
   <div class="essay-card">
     <div class="essay-content">
-      <h3>Other Evidence of Professional Capacity</h3>
+      <h3>Evidence of Core Competency</h3>
       <p><em>30 Mar 2025</em></p>
-      <p>This page presents other evidence of my professional capacity in computer science as required for the ICS Ph.D. Portfolio. This...</p>
+      <p>This page presents evidence of my core competencies in computer science as required for the ICS Ph.D. Portfolio. This includes...</p>
       <span class="tag">PhD Portfolio</span>
     </div>
     <a class="essay-footer" href="/essays/essay1.html">Read More</a>
-  </div>
-
-  <div class="essay-card">
-    <div class="essay-content">
-      <h3>Evidence of Scholarly Ability</h3>
-      <p><em>30 Mar 2025</em></p>
-      <p>This page presents evidence of my scholarly ability in computer science as required for the ICS Ph.D. Portfolio. This includes...</p>
-      <span class="tag">PhD Portfolio</span>
-    </div>
-    <a class="essay-footer" href="/essays/essay2.html">Read More</a>
   </div>
 
   <div class="essay-card">
@@ -91,14 +80,26 @@ permalink: /essays/
       <p>This page presents my statement of purpose in computer science as required for the ICS Ph.D. Portfolio. It summarizes my...</p>
       <span class="tag">PhD Portfolio</span>
     </div>
-    <a class="essay-footer" href="/essays/essay3.html">Read More</a>
+    <a class="essay-footer" href="/essays/essay2.html">Read More</a>
   </div>
 
   <div class="essay-card">
     <div class="essay-content">
-      <h3>Evidence of Core Competency</h3>
+      <h3>Evidence of Scholarly Ability</h3>
       <p><em>30 Mar 2025</em></p>
-      <p>This page presents evidence of my core competencies in computer science as required for the ICS Ph.D. Portfolio. This includes...</p>
+      <p>This page presents evidence of my scholarly ability in computer science as required for the ICS Ph.D. Portfolio. This includes...</p>
+      <span class="tag">PhD Portfolio</span>
+    </div>
+    <a class="essay-footer" href="/essays/essay3.html">Read More</a>
+  </div>
+
+  
+
+  <div class="essay-card">
+    <div class="essay-content">
+      <h3>Other Evidence of Professional Capacity</h3>
+      <p><em>30 Mar 2025</em></p>
+      <p>This page presents other evidence of my professional capacity in computer science as required for the ICS Ph.D. Portfolio. This...</p>
       <span class="tag">PhD Portfolio</span>
     </div>
     <a class="essay-footer" href="/essays/essay4.html">Read More</a>
