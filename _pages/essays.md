@@ -13,13 +13,14 @@ permalink: /essays/
 }
 
 .essay-card {
-  border: 1px solid #ddd;
-  border-radius: 8px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 100%;
-  box-shadow: 2px 2px 8px rgba(0,0,0,0.05);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
 .essay-content {
@@ -28,27 +29,31 @@ permalink: /essays/
 
 .essay-content h3 {
   margin-top: 0;
+  margin-bottom: 0.3rem;
+}
+
+.essay-content p {
+  font-size: 0.95rem;
 }
 
 .essay-content .tag {
   display: inline-block;
   background-color: #007b5e;
   color: white;
-  padding: 0.2rem 0.6rem;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.6rem;
   border-radius: 12px;
-  font-size: 0.8rem;
-  margin-top: 0.5rem;
+  margin-top: 0.6rem;
 }
 
 .essay-footer {
   background-color: #007b5e;
   color: white;
-  text-align: center;
-  padding: 0.7rem;
   font-weight: bold;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
+  text-align: center;
+  padding: 0.75rem;
   text-decoration: none;
+  transition: background-color 0.2s ease;
 }
 
 .essay-footer:hover {
@@ -60,40 +65,40 @@ permalink: /essays/
 
   <div class="essay-card">
     <div class="essay-content">
-      <h3>Ten ways to integrate software engineering</h3>
-      <p><em>14 Jan 2023</em></p>
-      <p>ICS 314 is part of the core curriculum and is a prerequisite to almost all upper division ICS courses...</p>
-      <span class="tag">Software Engineering</span>
+      <h3>Other Evidence of Professional Capacity</h3>
+      <p><em>30 Mar 2025</em></p>
+      <p>This page presents other evidence of my professional capacity in computer science as required for the ICS Ph.D. Portfolio. This...</p>
+      <span class="tag">PhD Portfolio</span>
     </div>
     <a class="essay-footer" href="/essays/essay1.html">Read More</a>
   </div>
 
   <div class="essay-card">
     <div class="essay-content">
-      <h3>Cheating in ICS: Insights from Students</h3>
-      <p><em>16 Oct 2020</em></p>
-      <p>Thoughts from over 60 ICS students on how to reduce cheating in computer science classes.</p>
-      <span class="tag">ICS</span>
+      <h3>Evidence of Scholarly Ability</h3>
+      <p><em>30 Mar 2025</em></p>
+      <p>This page presents evidence of my scholarly ability in computer science as required for the ICS Ph.D. Portfolio. This includes...</p>
+      <span class="tag">PhD Portfolio</span>
     </div>
     <a class="essay-footer" href="/essays/essay2.html">Read More</a>
   </div>
 
   <div class="essay-card">
     <div class="essay-content">
-      <h3>CS @ UHM @ 2025: Stakeholder Perspectives</h3>
-      <p><em>14 Oct 2020</em></p>
-      <p>ICS alumni and local high tech community members discuss the future of CS education at UHM.</p>
-      <span class="tag">ICS</span>
+      <h3>Statement of Purpose</h3>
+      <p><em>30 Mar 2025</em></p>
+      <p>This page presents my statement of purpose in computer science as required for the ICS Ph.D. Portfolio. It summarizes my...</p>
+      <span class="tag">PhD Portfolio</span>
     </div>
     <a class="essay-footer" href="/essays/essay3.html">Read More</a>
   </div>
 
   <div class="essay-card">
     <div class="essay-content">
-      <h3>Computer Science Education as a High School Priority</h3>
-      <p><em>22 Aug 2020</em></p>
-      <p>This article talks about the growing importance of CS in early education and policy perspectives...</p>
-      <span class="tag">Education</span>
+      <h3>Evidence of Core Competency</h3>
+      <p><em>30 Mar 2025</em></p>
+      <p>This page presents evidence of my core competencies in computer science as required for the ICS Ph.D. Portfolio. This includes...</p>
+      <span class="tag">PhD Portfolio</span>
     </div>
     <a class="essay-footer" href="/essays/essay4.html">Read More</a>
   </div>
