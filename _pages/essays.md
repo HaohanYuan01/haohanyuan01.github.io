@@ -2,7 +2,6 @@
 layout: page-clean
 title: "Essays"
 permalink: /essays/
-author_profile: false
 ---
 
 
