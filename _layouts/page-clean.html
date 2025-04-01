@@ -5,8 +5,12 @@
   </head>
   <body>
     {% include masthead.html %}
-    <div id="main" role="main">
+
+    <main id="main" role="main">
       {{ content }}
-    </div>
+    </main>
+
+    <!-- 注释掉 footer，如果没有这个文件可以保持这样 -->
+    {# {% include footer.html %} #}
   </body>
 </html>
