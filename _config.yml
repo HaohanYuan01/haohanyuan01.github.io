@@ -11,6 +11,11 @@ description              : "PhD Student at the University of Hawaii at Manoa, fo
 repository               : "haohan/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
+# Navigation links
+# These are loaded from _data/navigation.yml
+header_pages:
+  - about.md
+  - _pages/essays.md
 
 # google analytics
 google_analytics_id      : R4tuGawAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
