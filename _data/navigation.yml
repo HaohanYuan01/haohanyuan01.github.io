@@ -3,12 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#recent-news"
-
-  - title: "Publications"
-    url: "/#selected-publications"
-
   - title: "CV"
     url: "https://haohanyuan01.github.io/assets/CV25.pdf"
 
