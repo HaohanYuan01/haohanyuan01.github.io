@@ -31,7 +31,7 @@ My research primarily focuses on large language models (LLMs) and their applicat
  
 - A Structure-aware Generative Model for Biomedical Event Extraction
   - <u>Haohan Yuan</u>, Siu Cheung Hui, Haopeng Zhang
-  - DASFAA'25 (CORE Rank: A) \[[Paper](https://arxiv.org/abs/2408.06583)\|[Code](https://github.com/HaohanYuan01/GenBEE)\] 
+  - DASFAA'25 (CCF-B) \[[Paper](https://arxiv.org/abs/2408.06583)\|[Code](https://github.com/HaohanYuan01/GenBEE)\] 
 
 
 # 🔥 Recent News
