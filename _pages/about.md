@@ -35,6 +35,8 @@ My research primarily focuses on large language models (LLMs) and their applicat
 
 
 # 🔥 Recent News
+- [*2025.12*] 📝 Our new preprint about reasoning for summarization *"Understanding LLM Reasoning for Abstractive Summarization"* is now available on arXiv! [[link]](https://arxiv.org/abs/2512.03503)
+- [*2025.08*] 🎉 Glad to receive the AI @ HIDSI Fellowship from the Hawai‘i Data Science Institute!
 - [*2025.02*] 🎉 Two first-author papers featured in *University of Hawaii News » Research*! The article, titled [*"AI breakthroughs aim to transform healthcare, education, more"*](https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/), highlights our work. 
 - [*2025.01*] 🎉 One research paper is accepted to DASFAA 2025.
 - [*2025.01*] 🎉 One research paper is accepted to findings of NAACL 2025.
