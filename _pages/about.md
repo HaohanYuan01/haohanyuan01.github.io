@@ -27,7 +27,7 @@ redirect_from:
     <div class="opportunity-note"><span class="status-dot"></span> Seeking research internship and visiting student opportunities.</div>
   </div>
   <div class="home-hero__portrait">
-    <img src="/newmexico1.jpg" alt="Haohan Yuan">
+    <img src="/assets/images/profile.jpg" alt="Haohan Yuan">
     <div class="portrait-caption">
       <strong>Reliable &amp; Explainable AI</strong>
       <span>LLMs · Multimodal · Agentic AI</span>
