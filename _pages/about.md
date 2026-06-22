@@ -15,7 +15,8 @@ redirect_from:
     <span class="eyebrow">Ph.D. Researcher · University of Hawaii at Manoa</span>
     <h1>Haohan Yuan</h1>
     <p class="home-hero__lead">I study how structural priors can make LLM, multimodal, and agentic systems more reliable, explainable, and controllable.</p>
-    <p>I am a Computer Science Ph.D. student advised by <a href="https://hpzhang94.github.io/">Prof. Haopeng Zhang</a>. My research spans LLM reasoning, long-context understanding, model attribution, multimodal systems, and embodied agents.</p>
+    <p>I am a Computer Science Ph.D. student at the University of Hawaii at Manoa (2024–present), advised by <a href="https://hpzhang94.github.io/">Prof. Haopeng Zhang</a>. My research spans LLM reasoning, long-context understanding, model attribution, multimodal systems, and embodied agents.</p>
+    <p class="academic-path"><strong>Academic path:</strong> B.Sc. in Mathematics and Applied Mathematics, Hefei University of Technology (2018–2022) · M.Eng. in Computer Science, Nanyang Technological University (2022–2024), advised by <a href="https://scholar.google.com/citations?user=d4ZYx6gAAAAJ">Prof. Siu Cheung Hui</a> · Ph.D. in Computer Science, University of Hawaii at Manoa (2024–present).</p>
     <div class="home-hero__actions">
       <a class="home-button home-button--primary" href="/assets/CV26.pdf"><i class="fas fa-file-pdf"></i> CV</a>
       <a class="home-button" href="https://scholar.google.com/citations?user=R4tuGawAAAAJ"><i class="fas fa-graduation-cap"></i> Scholar</a>
