@@ -111,7 +111,10 @@ redirect_from:
       <h3>Understanding LLM Reasoning for Abstractive Summarization</h3>
       <p class="authors"><strong>Haohan Yuan</strong>, Haopeng Zhang</p>
       <p>Studies how explicit reasoning strategies affect summarization quality and factual faithfulness.</p>
-      <a href="https://arxiv.org/abs/2512.03503"><i class="fas fa-file-alt"></i> Paper</a>
+      <div class="publication-links">
+        <a href="https://arxiv.org/abs/2512.03503"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/alohalab-ai/Summarization_reasoning"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </article>
 
@@ -131,7 +134,10 @@ redirect_from:
       <h3>StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs</h3>
       <p class="authors"><strong>Haohan Yuan</strong>, Sukhwa Hong, Haopeng Zhang</p>
       <p>Proposes graph-structured sentence-level reasoning over long documents.</p>
-      <a href="https://arxiv.org/abs/2505.22950"><i class="fas fa-file-alt"></i> Paper</a>
+      <div class="publication-links">
+        <a href="https://arxiv.org/abs/2505.22950"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/HaohanYuan01/StrucSum"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </article>
 
