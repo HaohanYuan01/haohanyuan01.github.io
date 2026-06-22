@@ -88,7 +88,7 @@ redirect_from:
       <span>Reliable LLMs</span><i class="fas fa-arrow-right"></i>
       <span>Multimodal &amp; Embodied Agents</span>
     </div>
-    <p>My published work studies structured reasoning, faithfulness, and robustness in summarization. I am now carrying those ideas into model attribution and vision-language-action policies.</p>
+    <p>My published work studies structured reasoning, faithfulness, and robustness in summarization. I am now carrying those ideas into agentic AI and vision-language-action policies.</p>
   </div>
   <a class="journey-card__figure" href="/assets/images/research/reasoning-thread.jpg" target="_blank" rel="noopener">
     <img src="/assets/images/research/reasoning-thread.jpg" alt="Structured reasoning methods for summarization">
