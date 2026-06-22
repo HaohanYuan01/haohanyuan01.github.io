@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Haohan Yuan"
-description              : "PhD Student at the University of Hawaii at Manoa, focusing on NLP."
-repository               : "haohan/acad-homepage.github.io"
+description              : "PhD researcher working on reliable and explainable LLM, multimodal, and agentic AI systems."
+repository               : "HaohanYuan01/haohanyuan01.github.io"
 google_scholar_stats_use_cdn : true
 
 # Navigation links
@@ -29,9 +29,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haohan Yuan"
   avatar           : "newmexico1.jpg"
-  bio              : ""
-  location         : "USA"
-  employer         :
+  bio              : "Reliable and explainable AI systems"
+  location         : "Honolulu, HI"
+  employer         : "University of Hawaii at Manoa"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=R4tuGawAAAAJ"
   email            : "haohany@hawaii.edu"
@@ -49,7 +49,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "Haohan Yuan"# e.g., "linkedin username"
+  linkedin         : "haohan-yuan-20735b2aa"# e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -142,7 +142,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Pacific/Honolulu # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
