@@ -179,11 +179,11 @@ redirect_from:
   <div class="news-item news-item--paper"><time>Jun 2026</time><div><strong>ICML 2026</strong><p>Our position paper on the risks and governance of Generative Engine Optimization was accepted.</p></div></div>
   <div class="news-item news-item--milestone"><time>Jun 2026</time><div><strong>Upcoming transfer to UNC Charlotte</strong><p>I will transfer to the University of North Carolina at Charlotte with my advisor in August 2026, with my Ph.D. coursework and qualifying exam transferred.</p></div></div>
   <div class="news-item news-item--award"><time>May 2026</time><div><strong>AI @ HIDSI Fellowship</strong><p>I received an offer for the 2026 fellowship from the Hawaii Data Science Institute.</p></div></div>
-  <div class="news-item news-item--paper"><time>Apr 2026</time><div><strong>ACL 2026 Findings</strong><p>Our work on LLM reasoning for abstractive summarization was accepted.</p></div></div>
-  <div class="news-item news-item--paper"><time>Jan 2026</time><div><strong>EACL 2026 Findings</strong><p>Our StrucSum paper on graph-structured long-document reasoning was accepted.</p></div></div>
+  <div class="news-item news-item--paper"><time>Apr 2026</time><div><strong>ACL 2026 (Findings)</strong><p>Our work on LLM reasoning for abstractive summarization was accepted.</p></div></div>
+  <div class="news-item news-item--paper"><time>Jan 2026</time><div><strong>EACL 2026 (Findings)</strong><p>Our StrucSum paper on graph-structured long-document reasoning was accepted.</p></div></div>
   <div class="news-item news-item--award"><time>May 2025</time><div><strong>AI @ HIDSI Fellowship</strong><p>I received the 2025 fellowship from the Hawaii Data Science Institute.</p></div></div>
   <div class="news-item news-item--media"><time>Feb 2025</time><div><strong>Research feature</strong><p>Our work was featured in <a href="https://www.hawaii.edu/news/2025/02/07/ai-breakthroughs-healthcare-education-more/">University of Hawaii News</a>.</p></div></div>
-  <div class="news-item news-item--paper"><time>Jan 2025</time><div><strong>NAACL 2025 Findings</strong><p>Our DomainSum paper on fine-grained domain shift in summarization was accepted.</p></div></div>
+  <div class="news-item news-item--paper"><time>Jan 2025</time><div><strong>NAACL 2025 (Findings)</strong><p>Our DomainSum paper on fine-grained domain shift in summarization was accepted.</p></div></div>
   <div class="news-item news-item--milestone"><time>Sep 2024</time><div><strong>Ph.D. journey begins</strong><p>I joined the University of Hawaii at Manoa as a Computer Science Ph.D. student.</p></div></div>
 </section>
 
